@@ -1,32 +1,30 @@
 .old_title_button {
-	background: #4B759E;
+	background: #FFFFFF;
     border: 1px solid #152842;
     box-shadow: inset 0px 1px 2px rgb(10 15 26 / 8%);
-    color: white;
-    border-radius: 0px;
+    color: 64748B;
+    border-radius: 24px;
 
     font-size: 15px;
     text-align: center;
 
-    /* White BG */
 
-    color: #FFFFFF;
 }
 
 .left {
-	margin-left: 189px;
+	margin-left: 400px;
 }
 
 .w144 {
 	width: 144px;
 }
 
-.old_time_select {
+.time_select {
     margin-bottom: 32px;
     font-size: 14px;
 }
 
-.old_main_title {
+.main_title {
 	font-weight: 500;
 	font-size: 28px;
 	color: #0F172A;
@@ -35,8 +33,8 @@
 	margin-bottom: 45px;
 }
 
-.old-form-select {
-	border-radius: 0px;
+.form-select {
+	border-radius: 24px;
     font-size: 15px;
     background-size: 16px 20px;
     background: #D9E2EF;
@@ -61,7 +59,7 @@
     appearance: none;
 }
 
-.old_span_h1 {
+.span_h1 {
 	left: 494px;
     font-family: 'Arial';
     font-style: normal;
@@ -103,12 +101,12 @@
     display: flex;
 }
 
-.label_profile{
+.new_label_profile{
     margin-left: 20px;
     margin-bottom: 64px;
 }
 
-.label_profile p {
+.new_label_profile p {
     font-family: 'Arial';
 	font-style: normal;
 	font-weight: 400;
@@ -118,7 +116,7 @@
 	margin-bottom: 8px;
 }
 
-.label_profile p span{
+.new_label_profile p span{
     
     font-weight: 700;
 	font-size: 14px;
@@ -126,14 +124,14 @@
 	color: #2C3540;
 }
 
-.label {
+.new_label {
     font-family: 'Arial';
     font-style: normal;
     font-size: 14px;
     line-height: 16px;
 }
 
-.photo_profile p {
+.new_photo_profile p {
     font-weight: 400;
     font-size: 11px;
     letter-spacing: -0.005em;
